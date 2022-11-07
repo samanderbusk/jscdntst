@@ -1,1 +1,1 @@
-window.location.replace(``.concat(`www.google.com`));
+window.location.replace(``.concat(`https://www.google.com`));
